@@ -1,0 +1,22 @@
+{
+  "name": "protobuf-merge",
+  "version": "1.0.0",
+  "description": "protobuf merge to single file",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liukaijv/protobuf-merge.git"
+  },
+  "author": "noop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liukaijv/protobuf-merge/issues"
+  },
+  "homepage": "https://github.com/liukaijv/protobuf-merge#readme",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}

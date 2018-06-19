@@ -1,0 +1,6 @@
+
+message Result {
+    required string url = 1;
+    required string title = 2;
+    repeated string snippets = 3;
+}

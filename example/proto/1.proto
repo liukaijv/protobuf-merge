@@ -1,0 +1,6 @@
+
+message SearchRequest {
+    required string query = 1;
+    required int32 page_number = 2;
+    required int32 result_per_page = 3;
+}
